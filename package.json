@@ -1,0 +1,11 @@
+{
+  "name": "googlegram",
+  "version": "1.0.0",
+  "description": "Frontend assgnment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Denis Ponomarev",
+  "license": "ISC"
+}
